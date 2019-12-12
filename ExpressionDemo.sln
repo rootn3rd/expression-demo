@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{498535EE-AD50-408C-BE87-1FA35CCF9EB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{498535EE-AD50-408C-BE87-1FA35CCF9EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionWebProject", "ExpressionWebProject\ExpressionWebProject.csproj", "{CFB78C32-8B7C-4708-82C8-CE9A8108B2B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionWebProject", "ExpressionWebProject\ExpressionWebProject.csproj", "{CFB78C32-8B7C-4708-82C8-CE9A8108B2B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyHelperWithExpressionsDemo", "PropertyHelperWithExpressionsDemo\PropertyHelperWithExpressionsDemo.csproj", "{B2C79238-FC7D-419D-A321-E9BDBA34DCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastExpressionPlayGround", "FastExpressionPlayGround\FastExpressionPlayGround.csproj", "{1F5B5648-53AD-42A5-8A46-7E0E99CA1256}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{CFB78C32-8B7C-4708-82C8-CE9A8108B2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB78C32-8B7C-4708-82C8-CE9A8108B2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB78C32-8B7C-4708-82C8-CE9A8108B2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C79238-FC7D-419D-A321-E9BDBA34DCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C79238-FC7D-419D-A321-E9BDBA34DCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C79238-FC7D-419D-A321-E9BDBA34DCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C79238-FC7D-419D-A321-E9BDBA34DCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5B5648-53AD-42A5-8A46-7E0E99CA1256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5B5648-53AD-42A5-8A46-7E0E99CA1256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5B5648-53AD-42A5-8A46-7E0E99CA1256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5B5648-53AD-42A5-8A46-7E0E99CA1256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
